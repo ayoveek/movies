@@ -182,6 +182,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Movie suggestions subreddit](https://www.reddit.com/r/MovieSuggestions/)
 - [Movies for hackers](https://github.com/k4m4/movies-for-hackers)
 - [True Film subreddit](https://www.reddit.com/r/TrueFilm/)
+- [Moviepiq](https://moviepiq.com) - Curated movie recommendations by mood, genre and occasion. 6,000+ guides for finding what to watch next.
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
